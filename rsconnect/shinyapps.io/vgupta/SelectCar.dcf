@@ -1,0 +1,12 @@
+name: SelectCar
+title: SelectCar
+username:
+account: vgupta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 394906
+bundleId: 1518163
+url: https://vgupta.shinyapps.io/SelectCar/
+when: 1533386773.51257
+asMultiple: FALSE
+asStatic: FALSE
